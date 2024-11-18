@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Malte Hildebrandt
 
-<!--
-**MalteHildebrandtDe/MalteHildebrandtDe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master's Student in Atmospheric Science**  
+📍 Based in Innsbruck, Austria  
+🛰️ **Passionate about Meteorology, Climate Data Analysis, and Atmospheric Research**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Technologies
+- **Programming**: Python, R, (Matlab)
+- **Data Analysis & Visualization**: Pandas, Matplotlib, NumPy
+- **Scientific Computing**: Jupyter Notebooks, LaTeX, RMD
+- **OS**: currently EndeavourOS (Arch-based Linux)
+
+---
+
+### 📚 Interests
+- Atmospheric Science and Meteorology
+- Climate Change Research
+- Research on particle formation
+- Open-source Software & Linux Systems
+
+---
+
+### 📫 Get in Touch
+- 📧 malte.hildebrandt@uibk.ac.at
+
+---
+
+### ⚡ Fun Fact
+When I'm not exploring climate data, you'll likely find me in the gym or experimenting with new Linux setups! 
