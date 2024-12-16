@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Malte Hildebrandt
+# Hi, I'm Malte Hildebrandt
 
 🎓 **Master's Student in Atmospheric Science**  
 📍 Based in Innsbruck, Austria  
@@ -10,7 +10,7 @@
 - **Programming**: Python, R, (Matlab)
 - **Data Analysis & Visualization**: Pandas, Matplotlib, NumPy
 - **Scientific Computing**: Jupyter Notebooks, LaTeX, RMD
-- **OS**: currently EndeavourOS (Arch-based Linux)
+- **Linux**: currently Ubuntu
 
 ---
 
