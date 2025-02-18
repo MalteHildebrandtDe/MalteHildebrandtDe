@@ -31,5 +31,5 @@
 ---
 
 ### Get in Touch
-- 📧 malte.hildebrandt@uibk.ac.at
+📧 malte.hildebrandt@uibk.ac.at
 
