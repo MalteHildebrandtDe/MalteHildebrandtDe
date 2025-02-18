@@ -1,17 +1,23 @@
 # Hi, my name is Malte Hildebrandt
 
-**Master's Student in Atmospheric Science**  
+## I am:
+**Master's Student in Atmospheric Science**  and **Bachelor's Student in Educational Science**
 Based in Innsbruck, Austria  
-**Passionate about Meteorology, Climate Data Analysis, and Atmospheric Research**
+Passionate about Meteorology, Climate Data Analysis, and Open Science
 
 ---
 
-### Skills & Technologies
-- **Programming**: Python, R, (Matlab)
-- **Data Analysis & Visualization**: Pandas, Matplotlib, NumPy
-- **Scientific Computing**: Jupyter Notebooks, LaTeX, rmd
-- **Linux**: currently using Ubuntu
-- 
+## Skills & Technologies
+### Programming Languages: 
+- Python, R, Matlab, SQL
+
+### Data Analysis & Scientific Computing
+- Methods: Statistics, Data Visualization, (Web Scraping)
+- Tools: Jupyter Notebooks, R-Markdown, LaTeX
+
+### Tools & Environments
+- Operating Systems: Linux (Ubuntu)
+- always use Open Source Software if possible
 
 ---
 
@@ -19,7 +25,8 @@ Based in Innsbruck, Austria
 - Atmospheric Science and Meteorology
 - Climate Change Research
 - Research on particle formation
-- Open-source Software & Linux Systems
+- Interdisciplinary collaboration & communicating across disciplines
+- Open Science, Open Data & Reproducible Research
 
 ---
 
