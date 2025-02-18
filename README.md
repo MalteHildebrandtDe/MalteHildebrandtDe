@@ -3,7 +3,7 @@
 ## About me:
 - **Master's Student in Atmospheric Science**  and **Bachelor's Student in Educational Science**
 - Based in Innsbruck, Austria  
-- Passionate about Meteorology, Climate Data Analysis, and Open Science
+- Passionate about Meteorology, Climate Data Analysis and Open Science
 
 ---
 
